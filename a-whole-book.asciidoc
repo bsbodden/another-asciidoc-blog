@@ -11,7 +11,7 @@ The Super Awesome Dedication
 ----------------------------
 Optional dedication.
 
-This document is an AsciiDoc book skeleton containing briefly
+This document is an AsciiDoc book template containing briefly
 annotated set of example elements plus a couple of example index entries and
 footnotes.
 
