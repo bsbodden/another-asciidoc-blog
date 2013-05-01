@@ -7,8 +7,8 @@ v1.0, 2003-12
 
 [dedication]
 
-The Super Awesome Dedication
-----------------------------
+The Super Duper Awesome Dedication
+----------------------------------
 Optional dedication.
 
 This document is an AsciiDoc book template containing briefly
